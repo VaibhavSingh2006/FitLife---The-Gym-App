@@ -134,3 +134,4 @@ Modifications were made by **Vaibhav Singh** as part of **GSSoC'25**.
 - [Ionicons](https://ionic.io/ionicons)  
 - [Google Fonts](https://fonts.google.com/)  
 - Designed with love ❤️ to inspire a healthy lifestyle.
+<!-- Temporary change for testing update -->
